@@ -45,7 +45,7 @@ Theta2_grad = zeros(size(Theta2));
 %         Theta2_grad, respectively. After implementing Part 2, you can check
 %         that your implementation is correct by running checkNNGradients
 %
-%         Note:   The vector y passed into the function is a vector of labels
+%         Note: The vector y passed into the function is a vector of labels
 %               containing values from 1..K. You need to map this vector into a 
 %               binary vector of 1's and 0's to be used with the neural network
 %               cost function.
@@ -62,36 +62,47 @@ Theta2_grad = zeros(size(Theta2));
 %               and Theta2_grad from Part 2.
 %
 
-for i = 1:m
-  y_e = encode(y(i), num_labels); 
-  a_1 = [1, X(i,:)];   % input + BIAS unit
+for i = 1:m 
+  % adjust variables
+  input = [1, X(i,:)]'; 
+  output = recode(y(i), num_labels); % 10 = 0 (as digit)
   
-  z_2 = a_1 * Theta1';
-  a_2 = [1, sigmoid(z_2)];  % hidden layer: g(z_2) + BIAS unit
+  % compute cost function 
+  z_2 = Theta1 * input;
+  a_2 = sigmoid(z_2);
+
+  z_3 = Theta2 * [1;a_2];
+  a_3 = sigmoid(z_3);
+
+  J += (output' * log(a_3)) + ((1-output') * log(1-a_3));
   
-  h_theta_X = sigmoid(a_2 * Theta2'); % output layer
+  % Backpropagation
   
-  J += sum((-y_e .* log(h_theta_X)) .- ((1 - y_e) .* log(1 - h_theta_X)));
+  error_3 = a_3 - output;            % compute error for output layer
+  error_2 = (Theta2(:,2:end)' * error_3) .* sigmoidGradient(z_2); % compute error for hidden layer (with bias removed)
+
+  Theta2_grad += error_3 * [1;a_2]';          % compute delta matrix for Theta2 weights
+  Theta1_grad += error_2 * input';        % compute delta matrix for Theta1 weights
   
-  % - BP
-  delta_3 = h_theta_X .- y_e; % error
-  delta_2 = (delta_3 * Theta2) .* [1, sigmoidGradient(z_2)];
-  
-  Theta2_grad = Theta2_grad + (delta_3' * a_2);
-  Theta1_grad = Theta1_grad + (delta_2(2:end)' * a_1);
 endfor
 
-J /= m;
+J *= (-1/m);
 
 Theta1_grad /= m;
 Theta2_grad /= m;
 
-% -- Regularization
-reg = (lambda/(2*m)) * (sum(sum(Theta1(:, 2:end).^2, 1)) + sum(sum(Theta2(:, 2:end).^2, 1)));
-J += reg;
+Theta1_grad(:,2:end) += Theta1(:, 2:end) * (lambda/m); 
+Theta2_grad(:,2:end) += Theta2(:, 2:end) * (lambda/m);
 
-Theta1_grad(:,2:end) += lambda/m*Theta1(:,2:end);
-Theta2_grad(:,2:end) += lambda/m*Theta2(:,2:end);
+
+%Regularization
+
+Theta1_reg = Theta1(:,2:end); % no bias 
+Theta2_reg = Theta2(:,2:end); % no bias
+
+reg = (lambda / (2 * m)) * (sum(sumsq(Theta1_reg)) + sum(sumsq(Theta2_reg)));
+
+J += reg;
 
 % -------------------------------------------------------------
 
@@ -103,7 +114,9 @@ grad = [Theta1_grad(:) ; Theta2_grad(:)];
 
 end
 
-function y_e = encode(y, num_labels)
-   y_e = zeros(1, num_labels);
-   y_e(y) = 1;
-endfunction
+% Converts number to vector with element 1 at index given by y and 0 for other elements. 
+% Size of vector is defined by max. 
+function v = recode(y, max)
+  v = zeros(max,1);
+  v(y) = 1;
+end
