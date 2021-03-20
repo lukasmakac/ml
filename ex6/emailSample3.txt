@@ -1,0 +1,215 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">=0A<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">=0A<head><meta http-equiv=3D"Content-Type" content=3D"text/html; cha=
+rset=3Dutf-8"><meta name=3D"viewport" content=3D"width=3Ddevice-width">=0A<=
+title>Nasazujeme nov=C3=A1 vylep=C5=A1en=C3=AD. iDoklad bude m=C3=ADt kr=
+=C3=A1tkou p=C5=99est=C3=A1vku</title>=0A<style type=3D"text/css">html {=0A=
+min-height: 100%;=0Abackground: #f3f3f3;=0A}=0A=0Abody {=0A-moz-box-sizing:=
+ border-box;=0A-ms-text-size-adjust: 100%;=0A-webkit-box-sizing: border-box=
+;=0A-webkit-text-size-adjust: 100%;=0Abackground-color: #f3f3f3 !important;=
+=0Abox-sizing: border-box;=0Acolor: #0a0a0a;=0Afont-family: Helvetica,Arial=
+,sans-serif;=0Afont-size: 16px;=0Afont-weight: normal;=0Aline-height: 1.3;=
+=0Amargin: 0;=0Amin-width: 100%;=0Apadding: 0;=0Atext-align: left;=0Awidth:=
+ 100% !important;=0A}=0A=0A=0A@media (max-width: 580px) {=0A.mobile-100 {=
+=0Awidth: 100%!important;=0A}=0A=0A.small-12 {=0Awidth: 100% !important;=0A=
+}=0A=0A}=0A</style>=0A<!-- <style> -->=0A</head>=0A<body>=0A<table class=3D=
+"body" data-made-with-foundation=3D"" style=3D"background: #f3f3f3; backgro=
+und-color: #f3f3f3 !important; border-collapse: collapse; border-spacing: 0=
+; color: #0a0a0a; font-family: Helvetica,Arial,sans-serif; font-size: 16px;=
+ font-weight: normal; height: 100%; line-height: 1.3; margin: 0; padding: 0=
+; text-align: left; vertical-align: top; width: 100%;">=0A<tbody>=0A<tr sty=
+le=3D"padding: 0; text-align: left; vertical-align: top;">=0A<td align=3D"c=
+enter" class=3D"float-center" style=3D"-moz-hyphens: auto; -webkit-hyphens:=
+ auto; border-collapse: collapse !important; color: #0a0a0a; float: none; f=
+ont-family: Helvetica,Arial,sans-serif; font-size: 16px; font-weight: norma=
+l; hyphens: auto; line-height: 1.3; margin: 0 auto; padding: 0; text-align:=
+ center; vertical-align: top; word-wrap: break-word;" valign=3D"top">=0A<ta=
+ble class=3D"spacer" style=3D"border-collapse: collapse; border-spacing: 0;=
+ padding: 0; width: 100%;">=0A<tbody>=0A<tr style=3D"padding: 0;">=0A<td st=
+yle=3D"border-collapse: collapse !important; font-size: 0; padding: 0; padd=
+ing-bottom: 16px; padding-top: 16px;"></td>=0A</tr>=0A</tbody>=0A</table>=
+=0A=0A<table align=3D"center" class=3D"mobile-100" data-parsed=3D"" style=
+=3D"width: 512px;">=0A<tbody>=0A<tr>=0A<td>=0A<table align=3D"center" class=
+=3D"float-center" style=3D"background: #fefefe; border-spacing: 0; border-c=
+ollapse: collapse; margin: 0 auto; padding: 0; width: 100%;">=0A<tbody>=0A<=
+tr>=0A<td style=3D"margin: 0; padding: 0;">=0A<table bgcolor=3D"#f3f3f3" cl=
+ass=3D"spacer gray" style=3D"background-color: #f3f3f3 !important; border-c=
+ollapse: collapse; border-spacing: 0; padding: 0; width: 100%;">=0A<tbody>=
+=0A<tr>=0A<td class=3D"preview-text" style=3D"background-color: #f3f3f3 !im=
+portant; color: #0a0a0a; font-size: 0px; line-height: 0px; margin: 0 0 0 0;=
+ padding: 0 0 0 0; display: none;">A pak zase v=C5=A1echno pob=C4=9B=C5=
+=BE=C3=AD hladce.=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0</td>=0A</tr>=0A</tbody>=0A</table>=0A=0A<table bgcolor=3D"#f3f3f3" c=
+lass=3D"row gray" style=3D"background-color: #f3f3f3 !important; border-col=
+lapse: collapse; border-spacing: 0; display: table; padding: 0; position: r=
+elative; text-align: left; vertical-align: top; width: 100%;">=0A<tbody>=0A=
+<tr style=3D"padding: 0; text-align: left; vertical-align: top;">=0A<th cla=
+ss=3D"small-12 large-12 columns header first" style=3D"background-color: #f=
+3f3f3 !important; color: #0a0a0a; font-family: Helvetica,Arial,sans-serif; =
+font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0 auto; pad=
+ding: 0; padding-bottom: 16px; padding-left: 16px; padding-right: 8px; text=
+-align: left; width: 410.66667px;">=0A<table style=3D"border-collapse: coll=
+apse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top;=
+ width: 100%;">=0A<tbody>=0A<tr style=3D"padding: 0; text-align: left; vert=
+ical-align: top;">=0A<td style=3D"background-color: #f3f3f3 !important; col=
+or: #0a0a0a; font-family: Helvetica,Arial,sans-serif; font-size: 16px; font=
+-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left;=
+"><a href=3D"http://email-click.idoklad.cz/public/open/nlink/?u=3D6331a4a4-=
+10f2-11e4-a04b-002590a1e85a&c=3D5b9e6fd6-118c-11e4-a04b-002590a1e85a&l=3De7=
+9eef86-6f8d-11eb-8696-ac1f6bc403ac&sid=3D95a2a2685f3144ae8104b8d0cbe2883c" =
+style=3D"color: #2199e8; font-family: Helvetica,Arial,sans-serif; font-weig=
+ht: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left; text=
+-decoration: none;" target=3D"_blank"><img alt=3D"iDoklad" height=3D"40" sr=
+c=3D"https://cdn-smartemailing.cz/5913/media/idoklad/idoklad-mail.png?5he3r=
+b1v" style=3D"border: none; clear: both; display: block; float: left; max-w=
+idth: 150px; outline: none medium; text-decoration: none;" width=3D"136" />=
+ </a></td>=0A</tr>=0A</tbody>=0A</table>=0A</th>=0A</tr>=0A</tbody>=0A</tab=
+le>=0A=0A<table class=3D"row" style=3D"border-collapse: collapse; border-sp=
+acing: 0; display: table; padding: 0; position: relative; text-align: left;=
+ vertical-align: top; width: 100%;">=0A<tbody>=0A<tr style=3D"padding: 0; t=
+ext-align: left; vertical-align: top;">=0A<th class=3D"small-12 large-12 co=
+lumns first last blue-border" style=3D"border-top: 4px solid #4791DE;color:=
+ #0a0a0a;font-family: Helvetica,Arial,sans-serif;font-size: 16px;font-weigh=
+t: normal;line-height: 1.3;margin: 0 auto;padding: 0;padding-bottom: 16px;p=
+adding-left: 16px;padding-right: 16px;text-align: left;width: 516px;"></th>=
+=0A</tr>=0A</tbody>=0A</table>=0A=0A<table class=3D"row" style=3D"border-co=
+llapse: collapse; border-spacing: 0; width: 100%;">=0A<tbody>=0A<tr>=0A<th =
+class=3D"small-12 large-12 columns first last" style=3D"margin: 0 auto; pad=
+ding: 0px 16px 16px 16px; width: 496px;">=0A<table style=3D"border-spacing:=
+ 0; width: 100%;">=0A<tbody>=0A<tr>=0A<th style=3D"padding: 0;">=0A<table c=
+lass=3D"spacer" style=3D"border-spacing: 0; width: 100%;">=0A<tbody>=0A<tr>=
+=0A<td style=3D"padding: 8px 0px 8px 0px;"></td>=0A</tr>=0A</tbody>=0A</tab=
+le>=0A=0A<p style=3D"color: #505050; font-family: Helvetica,Arial,sans-seri=
+f; font-size: 14px; font-weight: normal; line-height: 150%; margin: 0 0 10p=
+x 0; margin-bottom: 10px; padding: 0; text-align: left;">Dobr=C3=BD den,</p=
+>=0A=0A<p style=3D"color: #505050; font-family: Helvetica,Arial,sans-serif;=
+ font-size: 14px; font-weight: normal; line-height: 150%; margin: 0 0 10px =
+0; margin-bottom: 10px; padding: 0; text-align: left;">p=C5=99ipravili jsme=
+ p=C3=A1r novinek a pot=C5=99ebujeme chvilku, abychom je nasadili a zkontro=
+lovali, jestli spr=C3=A1vn=C4=9B funguj=C3=AD.</p>=0A=0A<p style=3D"color: =
+rgb(80, 80, 80); font-family: Helvetica, Arial, sans-serif; font-size: 14px=
+; font-weight: normal; line-height: 150%; margin: 0px 0px 10px; padding: 0p=
+x; text-align: left;">Proto se iDoklad <b>ve st=C5=99edu 17. =C3=BAnora od =
+20:00</b>=C2=A0odml=C4=8D=C3=AD p=C5=99ibli=C5=BEn=C4=9B na <b>4 hodiny</b>=
+.</p>=0A=0A<p style=3D"color: #505050; font-family: Helvetica,Arial,sans-se=
+rif; font-size: 14px; font-weight: normal; line-height: 150%; margin: 0 0 1=
+0px 0; margin-bottom: 10px; padding: 0; text-align: left;">Pokud fakturaci =
+nestihnete ve=C4=8Der p=C5=99ed odst=C3=A1vkou, ud=C4=9Blejte ji r=C3=A1no =
+s =C4=8Derstvou hlavou.</p>=0A=0A<p style=3D"color: #505050; font-family: H=
+elvetica,Arial,sans-serif; font-size: 14px; font-weight: normal; line-heigh=
+t: 150%; margin: 0 0 10px 0; margin-bottom: 10px; padding: 0; text-align: l=
+eft;">Omlouv=C3=A1me se za komplikaci, ale v=C4=9B=C5=99=C3=ADme, =C5=BEe V=
+=C3=A1m nov=C3=A9 funkce uleh=C4=8D=C3=AD =C5=BEivot. Po nasazen=C3=AD nov=
+=C3=A9 verze V=C3=A1m po=C5=A1leme souhrnn=C3=BD =C4=8Dl=C3=A1nek a budeme =
+r=C3=A1di, kdy=C5=BE n=C3=A1m d=C3=A1te v=C4=9Bd=C4=9Bt, jak se V=C3=A1m no=
+v=C3=A9 funkce l=C3=ADb=C3=AD.<br />=0A</p>=0A=0A<p style=3D"color: #505050=
+; font-family: Helvetica,Arial,sans-serif; font-size: 14px; font-weight: no=
+rmal; line-height: 164%; margin: 0 0 10px 0; margin-bottom: 10px; padding: =
+0; text-align: left;">D=C4=9Bkujeme za pochopen=C3=AD.</p>=0A=0A<p style=3D=
+"color: #505050; font-family: Helvetica,Arial,sans-serif; font-size: 14px; =
+font-weight: normal; line-height: 150%; margin: 0 0 0 0; margin-bottom: 0px=
+; padding: 0; text-align: left;"><strong>Alena =C5=BDivn=C3=A1</strong></p>=
+=0A=0A<p style=3D"color: #505050; font-family: Helvetica,Arial,sans-serif; =
+font-size: 12px; font-weight: normal; line-height: 150%; margin: 0 0 10px 0=
+; margin-bottom: 10px; padding: 0; text-align: left;">z=C3=A1kaznick=C3=
+=A1 p=C3=A9=C4=8De<br />=0A+420 549 522 506, <a href=3D"http://email-click.=
+idoklad.cz/public/open/nlink/?u=3D6331a4a4-10f2-11e4-a04b-002590a1e85a&c=3D=
+5b9e6fd6-118c-11e4-a04b-002590a1e85a&l=3De7c3defe-6f8d-11eb-afbd-ac1f6bc403=
+ac&sid=3D95a2a2685f3144ae8104b8d0cbe2883c"><font style=3D"color: #505050">i=
+doklad.cz</font></a><br />=0ASolitea, a.s.</p>=0A=0A<p style=3D"color: #505=
+050; font-family: Helvetica,Arial,sans-serif; font-size: 14px; font-weight:=
+ normal; line-height: 150%; margin: 0 0 0 0; margin-bottom: 0px; padding: 0=
+; text-align: left;"><em>=E2=80=9EM=C3=A1m p=C5=99ehled, jak v=C5=A1echny f=
+unkce iDokladu vyu=C5=BE=C3=ADt naplno. A te=C4=8F V=C3=A1m s t=C3=ADm pomo=
+hu.=E2=80=9C</em></p>=0A</th>=0A</tr>=0A</tbody>=0A</table>=0A</th>=0A</tr>=
+=0A</tbody>=0A</table>=0A=0A<table class=3D"spacer bordered" style=3D"borde=
+r-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vert=
+ical-align: top; width: 100%;">=0A<tbody>=0A<tr>=0A<td style=3D"border-coll=
+apse: collapse !important; border-top: 1px solid #f3f3f3; color: #0a0a0a; p=
+adding: 0 0 16px 0;"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A=
+</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=
+=0A</tbody>=0A</table>=0A<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"color: #006ab1;" width=3D"100%">=0A<tbody>=0A<tr>=0A<td ali=
+gn=3D"center" bgcolor=3D"#353535" style=3D"padding: 0px 10px 0px 10px;">=0A=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"stretch" s=
+tyle=3D"width: 640px;">=0A<tbody>=0A<tr>=0A<td align=3D"center" bgcolor=3D"=
+#353535" style=3D"padding: 0px 10px 0px 10px;">=0A<table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"stretch" style=3D"width: 600px;">=
+=0A<tbody>=0A<tr>=0A<td bgcolor=3D"#353535" style=3D"height: 20px;"><img al=
+t=3D"" height=3D"20" src=3D"https://s3-eu-west-1.amazonaws.com/se20-account=
+-data/5913/media/loga/blank.gif" style=3D"display: block;" width=3D"1" /></=
+td>=0A</tr>=0A<tr>=0A<td align=3D"center" bgcolor=3D"#353535" class=3D"cent=
+er" style=3D"font-size: 16px; line-height: 25px; font-family: Arial, Helvet=
+ica, sans-serif; color: #000000;"><a href=3D"http://email-click.idoklad.cz/=
+public/open/nlink/?u=3D6331a4a4-10f2-11e4-a04b-002590a1e85a&c=3D5b9e6fd6-11=
+8c-11e4-a04b-002590a1e85a&l=3De7d62bcc-6f8d-11eb-bc56-ac1f6bc403ac&sid=3D95=
+a2a2685f3144ae8104b8d0cbe2883c" style=3D"display: inline-block; padding: 0p=
+x 2px 0px 0px; padding-right:2px; text-decoration: none; text-decoration: n=
+one !important;" target=3D"_blank"><img alt=3D"Twitter" height=3D"30" src=
+=3D"https://s3-eu-west-1.amazonaws.com/se20-account-data/5913/media/idoklad=
+/tw.png?l1_aWRva2xhZC90dy5wbmc1541170178" width=3D"30" /></a>=C2=A0=C2=
+=A0=C2=A0<a href=3D"http://email-click.idoklad.cz/public/open/nlink/?u=3D63=
+31a4a4-10f2-11e4-a04b-002590a1e85a&c=3D5b9e6fd6-118c-11e4-a04b-002590a1e85a=
+&l=3De802d87a-6f8d-11eb-87bf-ac1f6bc403ac&sid=3D95a2a2685f3144ae8104b8d0cbe=
+2883c" style=3D"display: inline-block; padding: 0px 0px 0px 2px; padding-le=
+ft:2px; text-decoration: none; text-decoration: none !important;" target=3D=
+"_blank"><img alt=3D"Facebook" height=3D"30" src=3D"https://s3-eu-west-1.am=
+azonaws.com/se20-account-data/5913/media/loga/paticka-webova/fb.png?l1_bG9n=
+YS9wYXRpY2thLXdlYm92YS9mYi5wbmc1540458228" width=3D"30" /></a></td>=0A</tr>=
+=0A<tr>=0A<td bgcolor=3D"#353535" style=3D"height: 20px;"><img alt=3D"" hei=
+ght=3D"20" src=3D"https://s3-eu-west-1.amazonaws.com/se20-account-data/5913=
+/media/loga/blank.gif" style=3D"display: block;" width=3D"1" /></td>=0A</tr=
+>=0A<tr>=0A<td bgcolor=3D"#353535" class=3D"m_-7784653675701014250center" s=
+tyle=3D"font-size:14px;line-height:16px;font-family:Arial,Helvetica,sans-se=
+rif;color:#979797">=0A<div style=3D"text-align:center"><span style=3D"font-=
+size:9pt"><font style=3D"color:#ffffff"><span style=3D"font-size:9pt;backgr=
+ound-color:transparent"><span style=3D"font-size:12px">Tento e-mail je dle =
+=C4=8Desk=C3=A9 legislativy sd=C4=9Blen=C3=ADm, ze kter=C3=BDch se <a href=
+=3D"http://email-click.idoklad.cz/public/u/newsletter?u=3D6331a4a4-10f2-11e=
+4-a04b-002590a1e85a&c=3D5b9e6fd6-118c-11e4-a04b-002590a1e85a&j=3D5bdf8e20-6=
+f84-11eb-b8f4-ac1f6ba555ed&sid=3D95a2a2685f3144ae8104b8d0cbe2883c" style=3D=
+"text-decoration-color: #FFF;"><span style=3D"color:#ffffff;">m=C5=AF=C5=
+=BEete odhl=C3=A1sit zde</span></a>. </span></span></font></span></div>=0A<=
+/td>=0A</tr>=0A<tr>=0A<td bgcolor=3D"#353535" style=3D"height: 20px;"><img =
+alt=3D"" height=3D"20" src=3D"https://s3-eu-west-1.amazonaws.com/se20-accou=
+nt-data/5913/media/loga/blank.gif" style=3D"display: block;" width=3D"1" />=
+</td>=0A</tr>=0A<tr>=0A<td bgcolor=3D"#353535" class=3D"center" style=3D"fo=
+nt-size: 10px; line-height: 14px; font-family: Arial, Helvetica, sans-serif=
+; color: #979797;">=0A<div style=3D"text-align: center; line-height: 14px;"=
+><font style=3D"color: #ffffff;"><span style=3D"font-size: 10px;">Tento e-m=
+ail je ur=C4=8Den vlastn=C3=ADkovi e-mailov=C3=A9 adresy: <a href=3D"mailto=
+:maruniakl@gmail.com" style=3D"text-decoration-color: #FFF;"><span style=3D=
+"color:#ffffff;">maruniakl@gmail.com</span></a> a odes=C3=ADlatelem za Soli=
+tea<br />=0A(Solitea, a.s., se s=C3=ADdlem:=C2=A0Drobn=C3=A9ho 49, 602 00 B=
+rno, I=C4=8C: 01572377)<br />=0Aje:=C2=A0Alena z iDokladu <a href=3D"mailto=
+:alena@idoklad.cz" style=3D"text-decoration-color: #FFF;"><span style=3D"co=
+lor:#ffffff;">alena@idoklad.cz</span></a>.</span></font></div>=0A</td>=0A</=
+tr>=0A<tr>=0A<td bgcolor=3D"#353535" style=3D"height: 20px;"><img alt=3D"" =
+height=3D"20" src=3D"https://s3-eu-west-1.amazonaws.com/se20-account-data/5=
+913/media/loga/blank.gif" width=3D"1" /></td>=0A</tr>=0A<tr>=0A<td bgcolor=
+=3D"#353535" style=3D"height: 25px;"><img alt=3D"" height=3D"25" src=3D"htt=
+ps://solitea.cz/wp-content/uploads/2018/11/blank.gif" style=3D"display: blo=
+ck;" width=3D"1" /></td>=0A</tr>=0A<tr>=0A<td align=3D"center" bgcolor=3D"#=
+353535" class=3D"center" style=3D"font-size: 16px; line-height: 25px; font-=
+family: Arial, Helvetica, sans-serif; color: #000000;"><a href=3D"http://em=
+ail-click.idoklad.cz/public/open/nlink/?u=3D6331a4a4-10f2-11e4-a04b-002590a=
+1e85a&c=3D5b9e6fd6-118c-11e4-a04b-002590a1e85a&l=3De837ff50-6f8d-11eb-a766-=
+ac1f6bc403ac&sid=3D95a2a2685f3144ae8104b8d0cbe2883c" style=3D"display: inli=
+ne-block; padding: 0px 20px; text-decoration: none; text-decoration: none !=
+important;" target=3D"_blank"><img alt=3D"Solitea" height=3D"25" src=3D"htt=
+ps://cdn-smartemailing.cz/5913/media/loga/solitea-logo-white-nove-400.png?l=
+1_bG9nYS9zb2xpdGVhLWxvZ28td2hpdGUtbm92ZS00MDAucG5n1595500964" style=3D"disp=
+lay: inline-block; border-width: 0px; border-style: solid;" width=3D"100" /=
+></a></td>=0A</tr>=0A<tr>=0A<td bgcolor=3D"#353535" style=3D"height: 50px;"=
+><img alt=3D"" height=3D"50" src=3D"https://s3-eu-west-1.amazonaws.com/se20=
+-account-data/5913/media/loga/blank.gif" style=3D"display: block;" width=3D=
+"1" /></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</ta=
+ble>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<img src=3D"http://email-click=
+.idoklad.cz/track/open/mail?u=3D6331a4a4-10f2-11e4-a04b-002590a1e85a&t=3Dn&=
+c=3D5b9e6fd6-118c-11e4-a04b-002590a1e85a&j=3D5bdf8e20-6f84-11eb-b8f4-ac1f6b=
+a555ed&sid=3D95a2a2685f3144ae8104b8d0cbe2883c" width=3D"2" height=3D"2" alt=
+=3D""></body>=0A</html>=0A=0A
+----------78nep67dna--
